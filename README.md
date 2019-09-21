@@ -53,4 +53,9 @@ classical repos
         <td>Tensorflow implementation of Learning-based Video Motion Magnification</td>
         <td>VM method, not directly related to heart rate</td>
     </tr>
+    <tr>
+        <td>https://github.com/thearn/webcam-pulse-detector</td>
+        <td>webcam-pulse-detector</td>
+        <td>rPPG method, with demo</td>
+    </tr>
 </table>
