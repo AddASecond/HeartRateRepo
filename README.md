@@ -58,4 +58,9 @@ classical repos
         <td>webcam-pulse-detector</td>
         <td>rPPG method, with demo</td>
     </tr>
+    <tr>
+        <td>https://github.com/camilleanne/pulse</td>
+        <td>Pulse is a browser-based, non-contact heartrate detection application. </td>
+        <td>rPPG method, code is clean</td>
+    </tr>
 </table>
