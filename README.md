@@ -63,4 +63,14 @@ classical repos
         <td>Pulse is a browser-based, non-contact heartrate detection application. </td>
         <td>rPPG method, code is clean</td>
     </tr>
+    <tr>
+        <td>https://github.com/MartinChristiaan/PythonVideoPulserate</td>
+        <td>Python implementation of a pulse rate monitor using rPPG from video with the chrominance method.</td>
+        <td>rPPG method, stable,good GUI</td>
+    </tr>
+    <tr>
+        <td>https://github.com/lvetech/ALT</td>
+        <td>Non-contact real-time monitoring of heart and respiration rates using Artificial Light Texture (ALT)</td>
+        <td>ALT method, need additional hardware</td>
+    </tr>
 </table>
