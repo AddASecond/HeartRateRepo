@@ -73,4 +73,9 @@ classical repos
         <td>Non-contact real-time monitoring of heart and respiration rates using Artificial Light Texture (ALT)</td>
         <td>ALT method, need additional hardware</td>
     </tr>
+    <tr>
+        <td>https://github.com/hmmo-O/Estimation-of-Heart-rate-using-FastICA</td>
+        <td>Detection of heart rate through laptop webcam using Fast Independent Component Analysis (ICA).</td>
+        <td>rPPG+ICA</td>
+    </tr>
 </table>
